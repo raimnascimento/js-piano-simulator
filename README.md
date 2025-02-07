@@ -24,4 +24,6 @@ Se joque no mundo da música com este simulador de piano intuitivo! Há duas for
 
 ## Resultado final 🖤
 
+[Clique para vê-lo](https://piano-simulator-liard.vercel.app/)
+
 ![imagem](src/img/piano-simulator.png)
