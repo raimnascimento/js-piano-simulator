@@ -1,12 +1,11 @@
 # Simulador de Piano 🎹 
 **Uma jornada musical com Javascript!**
 
-Desenvolvido com dedicação durante o Bootcamp da DIO - Front-End do zero, com a orientação do Felipe Aguiar, este projeto representa um marco importante na minha jornada como desenvolvedor.
+Desenvolvido com dedicação durante o Bootcamp da DIO - Front-End do zero, com a orientação do Felipe Aguiar, este projeto representa um marco importante na minha jornada como desenvolvedora.
 
 Esse jogo simples e divertido simula um piano e nele você pode se divertir e se distrair brincando com as músicas.
 
 ## Como funciona? 🎼
-Se joque no mundo da música com este simulador de piano intuitivo! Há duas formas de tocar:
 
 1. **Clique nas teclas:** Use o mouse para clicar diretamente nas teclas virtuais e ouvir os sons correspondentes.
 2. **Toque no teclado:** Utilize as teclas do seu teclado para reproduzir as notas musicais.
